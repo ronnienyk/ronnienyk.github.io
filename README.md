@@ -1,2 +1,2 @@
-# ronnienyk.github.io
-My adventures in fact fiction and AI
+# RonnieNYK — Minimal Public Site
+Just HTML and CSS. Paste essay text into /essays/*.html and replace images in /assets/img/.
